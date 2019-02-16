@@ -1,1 +1,1 @@
-# wiki
+# Aidos kuneen wiki (Japanese)
