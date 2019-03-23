@@ -1,0 +1,75 @@
+# Welcome to Jekyll!
+#
+
+# Plugin
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Site settings
+title: Aidos kuneen(ADK) unofficial wiki
+description: |
+  Aidos kuneen(ADK) が
+  今よりもっとわかる
+  そんなwiki
+owner: adkwiki team # or company name
+first_published: 2019 # if migrating another site, the year of your first publish
+#email: your-email@domain.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+social:
+  #twitter: https://twitter.com/<username>
+  github: https://github.com/adkwiki/ja
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# SEO
+lang: ja_JP
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
+
+exclude : ['README.md', 'LICENSE']
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/sitelogo.png
