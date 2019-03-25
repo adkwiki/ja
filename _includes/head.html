@@ -17,13 +17,8 @@
   {% else %}
     {% assign twitter_title = site.title %}
   {% endif %}
-  {% if page.image %}
-    {% assign twitter_image = site.url | append: site.baseurl | append: page.image %}
-    {% assign twitter_card = "summary" %}
-  {% else %}
-    {% assign twitter_image = site.url | append: site.baseurl | append: "/images/sitelogo.png" %}
-    {% assign twitter_card = "summary" %}
-  {% endif %}
+  {% assign twitter_image = site.url | append: site.baseurl | append: "/images/siteimage.jpg" %}
+  {% assign twitter_card = "summary" %}
   <meta name="twitter:card" content="{{ twitter_card }}">
   <meta name="twitter:title" content="{{ twitter_title }}">
   <meta name="twitter:url" content="{{site.url}}{{ site.baseurl }}{{ page.url }}">
