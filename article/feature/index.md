@@ -22,4 +22,6 @@ permalink: /feature/
 
 ## ADKの概要
 
-{% include blogcard.html site="adkwiki.github.io/ja/" url="/overview/" image="http://localhost:4000/images/sitelogo.png" title="概要" desc="ADKの発行量やホワイトペーパーなどの情報" %}
+{% assign link_url = site.url | append: site.baseurl | append: "/overview" %}
+{% assign image_url = site.url | append: site.baseurl | append: "/images/sitelogo.png" %}
+{% include blogcard.html site="adkwiki.github.io/ja/" url=link_url image=image_url title="概要" desc="ADKの発行量やホワイトペーパーなどの情報" %}
