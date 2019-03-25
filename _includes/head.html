@@ -19,7 +19,7 @@
   {% endif %}
   {% if page.image %}
     {% assign twitter_image = site.url | append: site.baseurl | append: page.image %}
-    {% assign twitter_card = "summary_large_image" %}
+    {% assign twitter_card = "summary" %}
   {% else %}
     {% assign twitter_image = site.url | append: site.baseurl | append: "/images/sitelogo.png" %}
     {% assign twitter_card = "summary" %}
