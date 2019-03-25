@@ -5,7 +5,7 @@
   {% seo title=false %}
 
   <!-- Favicon -->
-  <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="{{ "/images/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon" />
 
   <!-- twitter -->
   {% assign twitter_description = page.description | default: page.excerpt | default: site.description %}
@@ -18,15 +18,15 @@
     {% assign twitter_title = site.title %}
   {% endif %}
   {% if page.image %}
-    {% assign twitter_image = site.baseurl | append: page.image %}
+    {% assign twitter_image = site.url | append: site.baseurl | append: page.image %}
     {% assign twitter_card = "summary_large_image" %}
   {% else %}
-    {% assign twitter_image = site.baseurl | append: "/images/sitelogo.png" %}
+    {% assign twitter_image = site.url | append: site.baseurl | append: "/images/sitelogo.png" %}
     {% assign twitter_card = "summary" %}
   {% endif %}
   <meta name="twitter:card" content="{{ twitter_card }}">
   <meta name="twitter:title" content="{{ twitter_title }}">
-  <meta name="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
+  <meta name="twitter:url" content="{{site.url}}{{ site.baseurl }}{{ page.url }}">
   <meta name="twitter:description" content="{{ twitter_description }}">
   <meta name="twitter:image:src" content="{{ twitter_image }}">
 
