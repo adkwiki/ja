@@ -4,7 +4,7 @@ title: 上場取引所
 permalink: /exchange/
 ---
 
-2019/3/10 時点の情報
+2019/3/26 時点の情報
 
 
 ### aidos market
@@ -33,6 +33,7 @@ ADKと初期から関連しているカジノサービスと運営元が同一�
 {% include blogcard.html site="idax.zendesk.com" url="http://idax.zendesk.com/hc/en-us/articles/360017850472-IDAX-has-open-ADK-deposit-withdrawal-" image="https://theme.zdassets.com/theme_assets/2212660/8280cc2682d838211d031e360de9dc8cb19c2009.png" title="IDAX has open ADK deposit/withdrawal" desc="Dear users ,
 IDAX has launched ADK on ETH 、BTC markets，Click here to enter." %}
 <br />
+
 
 ### Raisex
 
@@ -68,6 +69,14 @@ IDAX has launched ADK on ETH 、BTC markets，Click here to enter." %}
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">Soon a new coin will appear at Exrates, and its name is <a href="https://twitter.com/Aidos_kuneen?ref_src=twsrc%5Etfw">@Aidos_kuneen</a>. The coin has come to secure the finance and make it totally decentralized. You can check ADK through the link: <a href="https://t.co/hkIlPGkezo">https://t.co/hkIlPGkezo</a>.<a href="https://twitter.com/hashtag/cryptocurrency?src=hash&amp;ref_src=twsrc%5Etfw">#cryptocurrency</a> <a href="https://twitter.com/hashtag/exchange?src=hash&amp;ref_src=twsrc%5Etfw">#exchange</a> <a href="https://twitter.com/hashtag/exratesme?src=hash&amp;ref_src=twsrc%5Etfw">#exratesme</a> <a href="https://twitter.com/hashtag/adk?src=hash&amp;ref_src=twsrc%5Etfw">#adk</a> <a href="https://t.co/VKDMjRguJg">pic.twitter.com/VKDMjRguJg</a></p>&mdash; Exrates.me (@Exrates_Me_) <a href="https://twitter.com/Exrates_Me_/status/1039884569892270080?ref_src=twsrc%5Etfw">2018年9月12日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br />
+
+
+### P2PB2B
+
+出来高はあるように見えるが、本物の出来高かは不明（取引所による自己売買の可能性もあり）
+
+{% include blogcard.html site="p2pb2b.io" url="https://p2pb2b.io/trade/ADK_BTC" image="https://p2pb2b.io/img/icons/p2pb2b/og-image.png?v=1" title="p2pb2b — The next generation cryptocurrency exchange" desc="p2pb2b is a new trading platform that provides businesses and individual traders with Low commissions, Multi-Support, Strong Security, and Open API" %}
 <br />
 
 ### HitBtc
