@@ -911,15 +911,14 @@ $baseurl: '{{ site.baseurl }}/images';
 				}
 			}
 
-			span { /* TODO */
+			span {
 				@include breakpoint(large) {
-					/*display: block;*/
 					left: 2.45em;
 					top: 4.15em;
-					/*position: absolute;*/
 				}
 
 				@include breakpoint(small) {
+					display: none;
 					left: 0.00em;
 					top: 3.00em;
 				}
