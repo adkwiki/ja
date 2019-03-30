@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ADKに関わる会社・組織
+title: ADKに関連する会社・組織
 permalink: /relation/
 date: 2016-03-22T00:00:00Z
 ---
@@ -36,13 +36,12 @@ WPで出現
 https://aidosfoundation.com/terms.html
 
 ### BADOER INVESTMENTS LIMITED
-BADOER INVESTMENTS LIMITED
+UAE
 https://twitter.com/Aidos_kuneen/status/999252873006501888
 
 https://eservices.dubaided.gov.ae
 Trade Name Nr.1946225
 
-### BADOER
 https://twitter.com/Aidos_kuneen/status/999248836534198272
 The company is Named Badoer Investments Ltd , Nr 194121 ( JAFZA ).  
 
@@ -51,39 +50,63 @@ BADOER INVESTMENTS LIMITED に改名した同一の法人？
 ケニアの株式購入？文章で出現
 https://twitter.com/bit_weapon/status/999051487153041408
 
-### Founder Linkdin
-https://ae.linkedin.com/in/ricardo-badoer-03b97b137
-
-### Badoer IT
-https://morokoshi-cryptolife.net/adk0002/
-以外で見つからない
-ベンキマンも見つけられない　理事会？を掘れば出て来るかも
-https://twitter.com/bit_weapon/status/986169928368697344
-
 ### Badoer Invest
 BADOER INVESTMENTS LIMITEDに変更された？
 https://morokoshi-cryptolife.net/adk0002/
 
-### Badoer Group ADK ETF
-ケニアの会社？
+### Badoer IT
+https://morokoshi-cryptolife.net/adk0002/
+以外で見つからない
 
-### ケニアの衣料関連の会社
-ユニフォーム？
+
+### Badoer Group ADK ETF
+Location: Nairobi
+http://badoergroupetf.com/
+
+ケニアでの登録書面
+https://twitter.com/Donrico77/status/1052108532835856384
+
+<!-- TODO 検索して実際の登録内容を調べようと思ったが、国外の人の場合結構面倒な登録が必要そうだったので放置
+https://www.ecitizen.go.ke/ecitizen-services.html
+-->
 
 ### BadoerGroup
 https://twitter.com/badoerg
 Badoer Group ADK ETFの親となる会社？
 
-### ??? AIDOS INTERNATIONAL GENERAL TRADING L.L.C
-https://eservices.dubaided.gov.ae/
-Trade Name Nr.1611261
-Department of Economic Development
 
-### ??? AIDOS SOLUTIONS - DMCC
-https://eservices.dubaided.gov.ae/
-Trade Name Nr.1730529
-Dubai Multi Commodities Centre
-関係なさそう http://aidossolutions.com
+## Sports
+
+### WAZITO FOOTBALL CLUB
+http://wazito-fc.com/
+所在地：ケニア
+SPONSORED BY [BADOER INVESTMENTS LIMITED]
+
+### C.D.Ursaria
+http://cdursaria.com/
+所在地：スペイン
+SPONSORED BY [BADOER INVESTMENTS LIMITED]
+
+### ケニアの衣料関連の会社
+ユニフォームなどを作っている？
+
+
+## Media
+
+### Business Today kenya
+https://businesstoday.co.ke
+所在地：ケニア
+
+principal shareholder [Badoer Investments Ltd.]
+https://businesstoday.co.ke/about-us/
+
+### Madgoat.tv
+http://madgoat.tv/
+所在地：不明（ケニア？）
+
+Upcoming African Sports and Entertainment Channel.
+https://twitter.com/MadgoatTv
+
 
 ## 外部
 
@@ -96,9 +119,17 @@ https://twitter.com/bit_weapon/status/961930254557224961
 リトアニアの中央銀行による完全に認可されたオンラインバンキング
 https://cointelegraph.com/press-releases/aidos-partners-lithuania-based-mistertango-for-instant-adk-conversion-to-fiat
 
+<!-- TODO ICO始めたため、Founderから提携凍結？ -->
+
 # Don arch
 2017/06/17
 https://cointelegraph.com/news/crypto-world-has-been-turning-into-ponzi-scheme-opinion
 
 コンソーシアム？
 https://cointelegraph.com/news/consortium-launched-to-prevent-criminal-uses-of-cryptocurrencies
+
+
+## その他
+
+### Founder Linkdin
+https://ae.linkedin.com/in/ricardo-badoer-03b97b137
