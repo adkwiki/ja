@@ -5,7 +5,7 @@ permalink: /relation/
 date: 2016-03-22T00:00:00Z
 ---
 
-<!-- TODO 図が必要？ -->
+<!-- TODO 図が必要？ cytoscape.js ? -->
 
 ## 内部
 
@@ -20,7 +20,6 @@ WPはこの表記
 https://aidosfoundation.com/privacy.html
 この団体の保有分ADKの扱いは？
 
-おまるマン said
 https://twitter.com/bit_weapon/status/961096077486288896
 
 ### Aidos Developer
@@ -32,7 +31,7 @@ WPで出現
 ドメインは登録済み？
 
 ### Aidos kuneen Asia
-下記で触れられているのみ
+下記で触れられているのみで実体なし？
 https://aidosfoundation.com/terms.html
 
 ### BADOER INVESTMENTS LIMITED
@@ -74,6 +73,20 @@ https://www.ecitizen.go.ke/ecitizen-services.html
 https://twitter.com/badoerg
 Badoer Group ADK ETFの親となる会社？
 
+## Casino
+
+### MONSTER BYTE INC.
+所在地：パナマ
+登録日：24 June 2016
+https://opencorporates.com/companies/pa/155632153
+BADOER INVESTMENT LIMITED, director / tesorero
+※INVESTMENT"S" ではない方
+
+BADOER INVESTMENT LIMITED
+https://opencorporates.com/officers/327864341
+
+https://topicolist.com/blog/aidos-and-monster-byte-announce-partnership/
+ADKとは提携？
 
 ## Sports
 
@@ -81,6 +94,9 @@ Badoer Group ADK ETFの親となる会社？
 http://wazito-fc.com/
 所在地：ケニア
 SPONSORED BY [BADOER INVESTMENTS LIMITED]
+
+スタジアム建設計画
+https://www.goal.com/en-ke/news/nsl-side-wazito-fc-release-latest-design-for-new-stadium/z8qtr9z8metz1ewr78gmv7rkt
 
 ### C.D.Ursaria
 http://cdursaria.com/
@@ -107,6 +123,8 @@ http://madgoat.tv/
 Upcoming African Sports and Entertainment Channel.
 https://twitter.com/MadgoatTv
 
+
+## ???
 
 ## 外部
 

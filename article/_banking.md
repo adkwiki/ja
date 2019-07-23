@@ -94,6 +94,9 @@ Hakika Microfinance Bank Limited  (約23%の株式取得)
 {% include blogcard.html site="www.thecitizen.co.tz" url="https://www.thecitizen.co.tz/News/Dubai-tycoon-buys-majority-shares-in-TZ-microfinance/1840340-4965718-366y0e/index.html" image="https://www.thecitizen.co.tz/image/view/-/4965754/medRes/2242270/-/n6197dz/-/Dubai+pic.jpg" title="Dubai tycoon buys majority shares in TZ microfinance" desc="Dubai-based billionaire Ricardo Badoer has made a major foray into Tanzania’s microfinance sector to unleash its untapped potential." %}
 
 
+### 株式買収記事
+https://cytonnreport.com/research/the-fight-against-corruption-in-kenyayet-another-chapter-cytonn-weekly-292018#private-equity
+
 ## 銀行利用に必要なコスト
 
 | 対象 | コスト(口座開設) | コスト(その他) |
